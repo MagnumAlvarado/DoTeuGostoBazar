@@ -15,3 +15,7 @@ html {
     align-items: center;
 }
 
+.background-section{
+    background-image: url(https://media.istockphoto.com/vectors/grunge-background-texture-vector-id642952704?k=6&m=642952704&s=612x612&w=0&h=j0TI7HlmjN5Zhfh4LOhlVgBGVlxV2H3V1uRQWlSQOuE=);
+    background-attachment: fixed;
+}
